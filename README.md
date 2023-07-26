@@ -29,14 +29,30 @@ NOTE: PAPERS TO BE ADDED BELOW THEIR SPECIFIC SECTION
 2. IDS APPLICATIONS ( GURPREET, SHIVENDRA, ARUNDHATI)
 NOTE: PAPERS TO BE ADDED BELOW THEIR SPECIFIC SECTION
 
-
 3. IDS WITH MACHINE LEARNING ( PRITHVIK, VARUN, ADNAAN AND ARIJITH)
 NOTE: PAPERS TO BE ADDED BELOW THEIR SPECIFIC SECTION
 
 
+1. IDS STANDALONE
+
+GAYATHRI'S PAPERS:-
+1. E. Guillen, D. Padilla and Y. Colorado, "Weaknesses and strengths analysis over network-based intrusion detection and prevention systems," 2009 IEEE Latin-American Conference on Communications, Medellin, Colombia, 2009, pp. 1-5, doi: 10.1109/LATINCOM.2009.5305047.
+
+2. M. Ahmed, R. Pal, M. M. Hossain, M. A. N. Bikas and M. K. Hasan, "NIDS: A Network Based Approach to Intrusion Detection and Prevention," 2009 International Association of Computer Science and Information Technology - Spring Conference, Singapore, 2009, pp. 141-144, doi: 10.1109/IACSIT-SC.2009.96.
+
+3. S. Liu, D. Y. Zhang, X. Chu, H. Otrok and P. Bhattacharya, "A Game Theoretic Approach to Optimize the Performance of Host-Based IDS," 2008 IEEE International Conference on Wireless and Mobile Computing, Networking and Communications, Avignon, France, 2008, pp. 448-453, doi: 10.1109/WiMob.2008.20.
+
+4. O. Al-Jarrah and A. Arafat, "Network Intrusion Detection System using attack behavior classification," 2014 5th International Conference on Information and Communication Systems (ICICS), Irbid, Jordan, 2014, pp. 1-6, doi: 10.1109/IACS.2014.6841978.
+
+5. A. Efe and İ. N. Abacı , "Comparison of the Host Based Intrusion Detection Systems and Network Based Intrusion Detection Systems", Celal Bayar University Journal of Science, vol. 18, no. 1, pp. 23-32, Mar. 2022, doi:10.18466/cbayarfbe.832533
+
+6. Wang, Z.Q., Zhang, D.K., 2012. HIDS and NIDS Hybrid Intrusion Detection System Model Design. AEF 6–7, 991–994. https://doi.org/10.4028/www.scientific.net/aef.6-7.991
+
+7. Y. -j. Ou, Y. Lin, Y. Zhang and Y. -j. Ou, "The Design and Implementation of Host-Based Intrusion Detection System," 2010 Third International Symposium on Intelligent Information Technology and Security Informatics, Jian, China, 2010, pp. 595-598, doi: 10.1109/IITSI.2010.127.
+
+8. Ming Liu, Zhi Xue, Xianghua Xu, Changmin Zhong, and Jinjun Chen. 2018. Host-Based Intrusion Detection System with System Calls: Review and Future Trends. ACM Comput. Surv. 51, 5, Article 98 (September 2019), 36 pages. https://doi.org/10.1145/3214304
 
 PRITHVIK'S PAPERS:-
-
 
 1.   M. D. Rokade and Y. K. Sharma, "MLIDS: A Machine Learning Approach for Intrusion Detection for Real-Time Network Dataset," 2021 International Conference on Emerging Smart Computing and Informatics (ESCI), Pune, India, 2021, pp. 533-536, doi: 10.1109/ESCI50559.2021.9396829.
 
@@ -60,6 +76,7 @@ PRITHVIK'S PAPERS:-
 10.   H. Du, S. Teng, M. Yang and Q. Zhu, "Intrusion Detection System Based on Improved SVM Incremental Learning," 2009 International Conference on Artificial Intelligence and Computational Intelligence, Shanghai, China, 2009, pp. 23-28, doi: 10.1109/AICI.2009.254.
 
 Shivendra's Papers 
+
 1. H. Saadat, A. Aboumadi, A. Mohamed, A. Erbad and M. Guizani, "Hierarchical Federated Learning for Collaborative IDS in IoT Applications," 2021 10th Mediterranean Conference on Embedded Computing (MECO), Budva, Montenegro, 2021, pp. 1-6, doi: 10.1109/MECO52532.2021.9460304.
 
 2. L. Wirz, A. Ketphet, N. Chiewnawintawat, R. Tanthanathewin and S. Fugkeaw, "OWADIS: Rapid Discovery of OWASP10 Vulnerability based on Hybrid IDS," 2023 15th International Conference on Knowledge and Smart Technology (KST), Phuket, Thailand, 2023, pp. 1-6, doi: 10.1109/KST57286.2023.10086878.
