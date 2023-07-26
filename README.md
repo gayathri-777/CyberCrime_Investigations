@@ -33,7 +33,7 @@ NOTE: PAPERS TO BE ADDED BELOW THEIR SPECIFIC SECTION
 NOTE: PAPERS TO BE ADDED BELOW THEIR SPECIFIC SECTION
 
 
-1. IDS STANDALONE
+IDS STANDALONE
 
 GAYATHRI'S PAPERS:-
 1. E. Guillen, D. Padilla and Y. Colorado, "Weaknesses and strengths analysis over network-based intrusion detection and prevention systems," 2009 IEEE Latin-American Conference on Communications, Medellin, Colombia, 2009, pp. 1-5, doi: 10.1109/LATINCOM.2009.5305047.
