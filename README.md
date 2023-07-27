@@ -48,7 +48,7 @@ GAYATHRI'S PAPERS:-
 
 6. Wang, Z.Q., Zhang, D.K., 2012. HIDS and NIDS Hybrid Intrusion Detection System Model Design. AEF 6–7, 991–994. https://doi.org/10.4028/www.scientific.net/aef.6-7.991
 
-7. Y. -j. Ou, Y. Lin, Y. Zhang and Y. -j. Ou, "The Design and Implementation of Host-Based Intrusion Detection System," 2010 Third International Symposium on Intelligent Information Technology and Security Informatics, Jian, China, 2010, pp. 595-598, doi: 10.1109/IITSI.2010.127.
+7. Y. -j. Ou, Y. Lin, Y. Zhang and Y. -j. Ou, "The Design and Implementation of Host-Based Intrusion Detection System," 2010 Third International Symposium on Intelligent Information Technology and Security Informatics, Jian, China, 2010, pp. 595-598, doi: 10.1109/IITSI.2010.127
 
 8. Ming Liu, Zhi Xue, Xianghua Xu, Changmin Zhong, and Jinjun Chen. 2018. Host-Based Intrusion Detection System with System Calls: Review and Future Trends. ACM Comput. Surv. 51, 5, Article 98 (September 2019), 36 pages. https://doi.org/10.1145/3214304
 
